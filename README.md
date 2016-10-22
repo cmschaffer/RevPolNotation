@@ -1,2 +1,2 @@
 # RevPolNotation
-A C Library for converting Infix Notation to Reverse Polish Notation 
+A C Library for converting between Infix Notation and Reverse Polish Notation. 
